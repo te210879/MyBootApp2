@@ -1,4 +1,4 @@
 server:
  port: 44444
-  servlet:
+ servlet:
    context-path: /te
